@@ -32,8 +32,8 @@
 
 
   queue()
-  .defer(d3.json, "assets/data/world-110m.json")
-  .defer(d3.csv, "assets/data/world-110m-country-names.csv")
+  .defer(d3.json, "assets/data/world.json")
+  .defer(d3.csv, "assets/data/world-country-names.csv")
   .await(ready);
 
   //Main function
