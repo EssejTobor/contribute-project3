@@ -1,0 +1,1234 @@
+{
+    "4": {
+        "id": "4",
+        "name": "Afghanistan",
+        "Happiness_score": "3.2030000000000003",
+        "Country Code": "AFG",
+        "2017": "1.559000015",
+        "Hours": ""
+    },
+    "8": {
+        "id": "8",
+        "name": "Albania",
+        "Happiness_score": "4.718999999999999",
+        "Country Code": "ALB",
+        "2017": "13.75",
+        "Hours": "38.83751785"
+    },
+    "12": {
+        "id": "12",
+        "name": "Algeria",
+        "Happiness_score": "5.211",
+        "Country Code": "DZA",
+        "2017": "11.99600029",
+        "Hours": "41.9"
+    },
+    "24": {
+        "id": "24",
+        "name": "Angola",
+        "Happiness_score": "",
+        "Country Code": "AGO",
+        "2017": "7.138999939",
+        "Hours": ""
+    },
+    "32": {
+        "id": "32",
+        "name": "Argentina",
+        "Happiness_score": "6.086",
+        "Country Code": "ARG",
+        "2017": "8.347000122",
+        "Hours": ""
+    },
+    "51": {
+        "id": "51",
+        "name": "Armenia",
+        "Happiness_score": "4.559",
+        "Country Code": "ARM",
+        "2017": "17.82699966",
+        "Hours": "38.7329"
+    },
+    "36": {
+        "id": "36",
+        "name": "Australia",
+        "Happiness_score": "7.228",
+        "Country Code": "AUS",
+        "2017": "5.593999863",
+        "Hours": "35.947195"
+    },
+    "40": {
+        "id": "40",
+        "name": "Austria",
+        "Happiness_score": "7.246",
+        "Country Code": "AUT",
+        "2017": "5.499000072",
+        "Hours": ""
+    },
+    "31": {
+        "id": "31",
+        "name": "Azerbaijan",
+        "Happiness_score": "5.207999999999999",
+        "Country Code": "AZE",
+        "2017": "5.0",
+        "Hours": ""
+    },
+    "44": {
+        "id": "44",
+        "name": "Bahamas",
+        "Happiness_score": "",
+        "Country Code": "",
+        "2017": "",
+        "Hours": ""
+    },
+    "50": {
+        "id": "50",
+        "name": "Bangladesh",
+        "Happiness_score": "4.456",
+        "Country Code": "BGD",
+        "2017": "4.372000217",
+        "Hours": "48.6043"
+    },
+    "112": {
+        "id": "112",
+        "name": "Belarus",
+        "Happiness_score": "5.3229999999999995",
+        "Country Code": "BLR",
+        "2017": "5.650000095",
+        "Hours": ""
+    },
+    "56": {
+        "id": "56",
+        "name": "Belgium",
+        "Happiness_score": "6.922999999999999",
+        "Country Code": "BEL",
+        "2017": "7.085999966",
+        "Hours": ""
+    },
+    "84": {
+        "id": "84",
+        "name": "Belize",
+        "Happiness_score": "",
+        "Country Code": "BLZ",
+        "2017": "9.0",
+        "Hours": "50.0"
+    },
+    "204": {
+        "id": "204",
+        "name": "Benin",
+        "Happiness_score": "4.883",
+        "Country Code": "BEN",
+        "2017": "2.180000067",
+        "Hours": ""
+    },
+    "64": {
+        "id": "64",
+        "name": "Bhutan",
+        "Happiness_score": "5.082",
+        "Country Code": "BTN",
+        "2017": "2.170000076",
+        "Hours": ""
+    },
+    "68": {
+        "id": "68",
+        "name": "Bolivia",
+        "Happiness_score": "5.779",
+        "Country Code": "BOL",
+        "2017": "3.23300004",
+        "Hours": "41.3475"
+    },
+    "70": {
+        "id": "70",
+        "name": "Bosnia and Herzegovina",
+        "Happiness_score": "5.386",
+        "Country Code": "BIH",
+        "2017": "20.46999931",
+        "Hours": "41.5886"
+    },
+    "72": {
+        "id": "72",
+        "name": "Botswana",
+        "Happiness_score": "3.488",
+        "Country Code": "BWA",
+        "2017": "17.63100052",
+        "Hours": ""
+    },
+    "76": {
+        "id": "76",
+        "name": "Brazil",
+        "Happiness_score": "6.3",
+        "Country Code": "BRA",
+        "2017": "12.82699966",
+        "Hours": "39.0261"
+    },
+    "96": {
+        "id": "96",
+        "name": "Brunei Darussalam",
+        "Happiness_score": "",
+        "Country Code": "BRN",
+        "2017": "9.315999985",
+        "Hours": "46.2896"
+    },
+    "100": {
+        "id": "100",
+        "name": "Bulgaria",
+        "Happiness_score": "5.011",
+        "Country Code": "BGR",
+        "2017": "6.164000034",
+        "Hours": ""
+    },
+    "854": {
+        "id": "854",
+        "name": "Burkina Faso",
+        "Happiness_score": "4.587",
+        "Country Code": "BFA",
+        "2017": "6.014999866",
+        "Hours": ""
+    },
+    "108": {
+        "id": "108",
+        "name": "Burundi",
+        "Happiness_score": "3.775",
+        "Country Code": "BDI",
+        "2017": "1.5010000469999998",
+        "Hours": ""
+    },
+    "116": {
+        "id": "116",
+        "name": "Cambodia",
+        "Happiness_score": "4.7",
+        "Country Code": "KHM",
+        "2017": "1.062000036",
+        "Hours": "45.2951"
+    },
+    "120": {
+        "id": "120",
+        "name": "Cameroon",
+        "Happiness_score": "5.044",
+        "Country Code": "CMR",
+        "2017": "3.358999968",
+        "Hours": "44.8946"
+    },
+    "124": {
+        "id": "124",
+        "name": "Canada",
+        "Happiness_score": "7.278",
+        "Country Code": "CAN",
+        "2017": "6.340000152999999",
+        "Hours": "35.7554"
+    },
+    "140": {
+        "id": "140",
+        "name": "Central African Republic",
+        "Happiness_score": "3.083",
+        "Country Code": "CAF",
+        "2017": "6.4470000270000005",
+        "Hours": ""
+    },
+    "148": {
+        "id": "148",
+        "name": "Chad",
+        "Happiness_score": "4.35",
+        "Country Code": "TCD",
+        "2017": "2.198999882",
+        "Hours": ""
+    },
+    "152": {
+        "id": "152",
+        "name": "Chile",
+        "Happiness_score": "6.444",
+        "Country Code": "CHL",
+        "2017": "6.958000182999999",
+        "Hours": "41.4268"
+    },
+    "156": {
+        "id": "156",
+        "name": "China",
+        "Happiness_score": "5.191",
+        "Country Code": "CHN",
+        "2017": "4.400000095",
+        "Hours": ""
+    },
+    "170": {
+        "id": "170",
+        "name": "Colombia",
+        "Happiness_score": "6.125",
+        "Country Code": "COL",
+        "2017": "8.871999741",
+        "Hours": "44.4988"
+    },
+    "188": {
+        "id": "188",
+        "name": "Costa Rica",
+        "Happiness_score": "7.167000000000001",
+        "Country Code": "CRI",
+        "2017": "8.142000198",
+        "Hours": "43.4837"
+    },
+    "191": {
+        "id": "191",
+        "name": "Croatia",
+        "Happiness_score": "5.432",
+        "Country Code": "HRV",
+        "2017": "11.20800018",
+        "Hours": "39.6"
+    },
+    "196": {
+        "id": "196",
+        "name": "Cyprus",
+        "Happiness_score": "6.046",
+        "Country Code": "CYP",
+        "2017": "11.05200005",
+        "Hours": ""
+    },
+    "203": {
+        "id": "203",
+        "name": "Czech Republic",
+        "Happiness_score": "6.852",
+        "Country Code": "CZE",
+        "2017": "2.890000105",
+        "Hours": ""
+    },
+    "208": {
+        "id": "208",
+        "name": "Denmark",
+        "Happiness_score": "7.6",
+        "Country Code": "DNK",
+        "2017": "5.743000031",
+        "Hours": ""
+    },
+    "214": {
+        "id": "214",
+        "name": "Dominican Republic",
+        "Happiness_score": "5.425",
+        "Country Code": "DOM",
+        "2017": "5.831999778999999",
+        "Hours": "42.6517"
+    },
+    "218": {
+        "id": "218",
+        "name": "Ecuador",
+        "Happiness_score": "6.028",
+        "Country Code": "ECU",
+        "2017": "3.835999966",
+        "Hours": "37.0224"
+    },
+    "818": {
+        "id": "818",
+        "name": "Egypt",
+        "Happiness_score": "4.166",
+        "Country Code": "",
+        "2017": "",
+        "Hours": "53.0"
+    },
+    "222": {
+        "id": "222",
+        "name": "El Salvador",
+        "Happiness_score": "6.252999999999999",
+        "Country Code": "SLV",
+        "2017": "4.385000229",
+        "Hours": ""
+    },
+    "233": {
+        "id": "233",
+        "name": "Estonia",
+        "Happiness_score": "5.893",
+        "Country Code": "EST",
+        "2017": "5.760000229",
+        "Hours": ""
+    },
+    "231": {
+        "id": "231",
+        "name": "Ethiopia",
+        "Happiness_score": "4.2860000000000005",
+        "Country Code": "ETH",
+        "2017": "1.8099999430000002",
+        "Hours": ""
+    },
+    "242": {
+        "id": "242",
+        "name": "Fiji",
+        "Happiness_score": "",
+        "Country Code": "FJI",
+        "2017": "4.1430001260000004",
+        "Hours": ""
+    },
+    "246": {
+        "id": "246",
+        "name": "Finland",
+        "Happiness_score": "7.769",
+        "Country Code": "FIN",
+        "2017": "8.640000342999999",
+        "Hours": ""
+    },
+    "250": {
+        "id": "250",
+        "name": "France",
+        "Happiness_score": "6.5920000000000005",
+        "Country Code": "FRA",
+        "2017": "9.397000313",
+        "Hours": ""
+    },
+    "266": {
+        "id": "266",
+        "name": "Gabon",
+        "Happiness_score": "4.7989999999999995",
+        "Country Code": "GAB",
+        "2017": "19.37400055",
+        "Hours": ""
+    },
+    "270": {
+        "id": "270",
+        "name": "Gambia",
+        "Happiness_score": "4.516",
+        "Country Code": "",
+        "2017": "",
+        "Hours": "51.2764"
+    },
+    "268": {
+        "id": "268",
+        "name": "Georgia",
+        "Happiness_score": "4.519",
+        "Country Code": "GEO",
+        "2017": "13.93000031",
+        "Hours": "37.7993"
+    },
+    "276": {
+        "id": "276",
+        "name": "Germany",
+        "Happiness_score": "6.985",
+        "Country Code": "DEU",
+        "2017": "3.746000051",
+        "Hours": "35.2"
+    },
+    "288": {
+        "id": "288",
+        "name": "Ghana",
+        "Happiness_score": "4.996",
+        "Country Code": "GHA",
+        "2017": "6.629000187000001",
+        "Hours": "33.972"
+    },
+    "300": {
+        "id": "300",
+        "name": "Greece",
+        "Happiness_score": "5.287000000000001",
+        "Country Code": "GRC",
+        "2017": "21.48800087",
+        "Hours": "39.1"
+    },
+    "320": {
+        "id": "320",
+        "name": "Guatemala",
+        "Happiness_score": "6.436",
+        "Country Code": "GTM",
+        "2017": "2.684000015",
+        "Hours": "42.7364"
+    },
+    "324": {
+        "id": "324",
+        "name": "Guinea",
+        "Happiness_score": "4.534",
+        "Country Code": "GIN",
+        "2017": "3.572000027",
+        "Hours": ""
+    },
+    "624": {
+        "id": "624",
+        "name": "Guinea-Bissau",
+        "Happiness_score": "",
+        "Country Code": "GNB",
+        "2017": "4.032999992",
+        "Hours": ""
+    },
+    "328": {
+        "id": "328",
+        "name": "Guyana",
+        "Happiness_score": "",
+        "Country Code": "GUY",
+        "2017": "12.11499977",
+        "Hours": ""
+    },
+    "332": {
+        "id": "332",
+        "name": "Haiti",
+        "Happiness_score": "3.597",
+        "Country Code": "HTI",
+        "2017": "13.40499973",
+        "Hours": ""
+    },
+    "340": {
+        "id": "340",
+        "name": "Honduras",
+        "Happiness_score": "5.86",
+        "Country Code": "HND",
+        "2017": "4.047999859",
+        "Hours": "40.8548"
+    },
+    "348": {
+        "id": "348",
+        "name": "Hungary",
+        "Happiness_score": "5.757999999999999",
+        "Country Code": "HUN",
+        "2017": "4.1560001369999995",
+        "Hours": "39.8"
+    },
+    "352": {
+        "id": "352",
+        "name": "Iceland",
+        "Happiness_score": "7.494",
+        "Country Code": "ISL",
+        "2017": "2.742000103",
+        "Hours": ""
+    },
+    "356": {
+        "id": "356",
+        "name": "India",
+        "Happiness_score": "4.015",
+        "Country Code": "IND",
+        "2017": "2.5569999219999997",
+        "Hours": ""
+    },
+    "360": {
+        "id": "360",
+        "name": "Indonesia",
+        "Happiness_score": "5.192",
+        "Country Code": "IDN",
+        "2017": "4.184999943",
+        "Hours": "41.3774"
+    },
+    "364": {
+        "id": "364",
+        "name": "Iran",
+        "Happiness_score": "4.548",
+        "Country Code": "",
+        "2017": "",
+        "Hours": ""
+    },
+    "368": {
+        "id": "368",
+        "name": "Iraq",
+        "Happiness_score": "4.437",
+        "Country Code": "IRQ",
+        "2017": "7.890999794",
+        "Hours": "44.2777"
+    },
+    "372": {
+        "id": "372",
+        "name": "Ireland",
+        "Happiness_score": "7.021",
+        "Country Code": "IRL",
+        "2017": "6.7100000379999996",
+        "Hours": ""
+    },
+    "376": {
+        "id": "376",
+        "name": "Israel",
+        "Happiness_score": "7.138999999999999",
+        "Country Code": "ISR",
+        "2017": "4.215000153",
+        "Hours": "40.5259"
+    },
+    "380": {
+        "id": "380",
+        "name": "Italy",
+        "Happiness_score": "6.223",
+        "Country Code": "ITA",
+        "2017": "11.21100044",
+        "Hours": "37.0"
+    },
+    "388": {
+        "id": "388",
+        "name": "Jamaica",
+        "Happiness_score": "5.89",
+        "Country Code": "JAM",
+        "2017": "11.6590004",
+        "Hours": ""
+    },
+    "392": {
+        "id": "392",
+        "name": "Japan",
+        "Happiness_score": "5.886",
+        "Country Code": "JPN",
+        "2017": "2.799999952",
+        "Hours": "39.0"
+    },
+    "400": {
+        "id": "400",
+        "name": "Jordan",
+        "Happiness_score": "4.906000000000001",
+        "Country Code": "JOR",
+        "2017": "14.87899971",
+        "Hours": ""
+    },
+    "398": {
+        "id": "398",
+        "name": "Kazakhstan",
+        "Happiness_score": "5.809",
+        "Country Code": "KAZ",
+        "2017": "4.900000095",
+        "Hours": "31.0"
+    },
+    "404": {
+        "id": "404",
+        "name": "Kenya",
+        "Happiness_score": "4.5089999999999995",
+        "Country Code": "KEN",
+        "2017": "9.291999817",
+        "Hours": "42.9545"
+    },
+    "410": {
+        "id": "410",
+        "name": "South Korea",
+        "Happiness_score": "5.895",
+        "Country Code": "",
+        "2017": "",
+        "Hours": ""
+    },
+    "414": {
+        "id": "414",
+        "name": "Kuwait",
+        "Happiness_score": "6.021",
+        "Country Code": "KWT",
+        "2017": "1.9969999790000001",
+        "Hours": ""
+    },
+    "417": {
+        "id": "417",
+        "name": "Kyrgyzstan",
+        "Happiness_score": "5.261",
+        "Country Code": "",
+        "2017": "",
+        "Hours": "35.7"
+    },
+    "418": {
+        "id": "418",
+        "name": "Laos",
+        "Happiness_score": "4.796",
+        "Country Code": "",
+        "2017": "",
+        "Hours": ""
+    },
+    "428": {
+        "id": "428",
+        "name": "Latvia",
+        "Happiness_score": "5.94",
+        "Country Code": "LVA",
+        "2017": "8.715000153",
+        "Hours": ""
+    },
+    "422": {
+        "id": "422",
+        "name": "Lebanon",
+        "Happiness_score": "5.197",
+        "Country Code": "LBN",
+        "2017": "6.113999843999999",
+        "Hours": ""
+    },
+    "426": {
+        "id": "426",
+        "name": "Lesotho",
+        "Happiness_score": "3.802",
+        "Country Code": "LSO",
+        "2017": "23.61300087",
+        "Hours": ""
+    },
+    "430": {
+        "id": "430",
+        "name": "Liberia",
+        "Happiness_score": "3.975",
+        "Country Code": "LBR",
+        "2017": "2.028000116",
+        "Hours": "42.6458"
+    },
+    "434": {
+        "id": "434",
+        "name": "Libya",
+        "Happiness_score": "5.525",
+        "Country Code": "LBY",
+        "2017": "17.12199974",
+        "Hours": ""
+    },
+    "440": {
+        "id": "440",
+        "name": "Lithuania",
+        "Happiness_score": "6.149",
+        "Country Code": "LTU",
+        "2017": "7.072999954",
+        "Hours": "38.3"
+    },
+    "442": {
+        "id": "442",
+        "name": "Luxembourg",
+        "Happiness_score": "7.09",
+        "Country Code": "LUX",
+        "2017": "5.521999836",
+        "Hours": "37.4"
+    },
+    "807": {
+        "id": "807",
+        "name": "Macedonia",
+        "Happiness_score": "5.274",
+        "Country Code": "",
+        "2017": "",
+        "Hours": ""
+    },
+    "450": {
+        "id": "450",
+        "name": "Madagascar",
+        "Happiness_score": "3.9330000000000003",
+        "Country Code": "MDG",
+        "2017": "1.66900003",
+        "Hours": "36.3987"
+    },
+    "454": {
+        "id": "454",
+        "name": "Malawi",
+        "Happiness_score": "3.41",
+        "Country Code": "MWI",
+        "2017": "5.467999935",
+        "Hours": "34.1332"
+    },
+    "458": {
+        "id": "458",
+        "name": "Malaysia",
+        "Happiness_score": "5.3389999999999995",
+        "Country Code": "MYS",
+        "2017": "3.410000086",
+        "Hours": "45.4"
+    },
+    "466": {
+        "id": "466",
+        "name": "Mali",
+        "Happiness_score": "4.39",
+        "Country Code": "MLI",
+        "2017": "9.43500042",
+        "Hours": "36.7291"
+    },
+    "478": {
+        "id": "478",
+        "name": "Mauritania",
+        "Happiness_score": "4.49",
+        "Country Code": "MRT",
+        "2017": "10.27600002",
+        "Hours": "54.0765"
+    },
+    "484": {
+        "id": "484",
+        "name": "Mexico",
+        "Happiness_score": "6.595",
+        "Country Code": "MEX",
+        "2017": "3.4200000760000004",
+        "Hours": "46.2767"
+    },
+    "498": {
+        "id": "498",
+        "name": "Moldova",
+        "Happiness_score": "5.529",
+        "Country Code": "MDA",
+        "2017": "4.09800005",
+        "Hours": ""
+    },
+    "496": {
+        "id": "496",
+        "name": "Mongolia",
+        "Happiness_score": "5.285",
+        "Country Code": "MNG",
+        "2017": "6.359000206",
+        "Hours": "48.3448"
+    },
+    "499": {
+        "id": "499",
+        "name": "Montenegro",
+        "Happiness_score": "5.523",
+        "Country Code": "MNE",
+        "2017": "16.07099915",
+        "Hours": "42.5"
+    },
+    "504": {
+        "id": "504",
+        "name": "Morocco",
+        "Happiness_score": "5.207999999999999",
+        "Country Code": "MAR",
+        "2017": "9.05300045",
+        "Hours": ""
+    },
+    "508": {
+        "id": "508",
+        "name": "Mozambique",
+        "Happiness_score": "4.466",
+        "Country Code": "MOZ",
+        "2017": "3.173000097",
+        "Hours": "42.3305"
+    },
+    "104": {
+        "id": "104",
+        "name": "Myanmar",
+        "Happiness_score": "4.36",
+        "Country Code": "MMR",
+        "2017": "1.550999999",
+        "Hours": "49.0891"
+    },
+    "516": {
+        "id": "516",
+        "name": "Namibia",
+        "Happiness_score": "4.638999999999999",
+        "Country Code": "NAM",
+        "2017": "23.08799934",
+        "Hours": "45.5042"
+    },
+    "524": {
+        "id": "524",
+        "name": "Nepal",
+        "Happiness_score": "4.913",
+        "Country Code": "NPL",
+        "2017": "1.2530000209999999",
+        "Hours": "44.494"
+    },
+    "528": {
+        "id": "528",
+        "name": "Netherlands",
+        "Happiness_score": "7.4879999999999995",
+        "Country Code": "NLD",
+        "2017": "4.839000225",
+        "Hours": ""
+    },
+    "554": {
+        "id": "554",
+        "name": "New Zealand",
+        "Happiness_score": "7.307",
+        "Country Code": "NZL",
+        "2017": "4.702000141",
+        "Hours": "37.0"
+    },
+    "558": {
+        "id": "558",
+        "name": "Nicaragua",
+        "Happiness_score": "6.105",
+        "Country Code": "NIC",
+        "2017": "4.212999821",
+        "Hours": "42.2358"
+    },
+    "562": {
+        "id": "562",
+        "name": "Niger",
+        "Happiness_score": "4.628",
+        "Country Code": "NER",
+        "2017": "0.28499999600000003",
+        "Hours": "35.8863"
+    },
+    "566": {
+        "id": "566",
+        "name": "Nigeria",
+        "Happiness_score": "5.265",
+        "Country Code": "NGA",
+        "2017": "6.013000011",
+        "Hours": "46.261"
+    },
+    "578": {
+        "id": "578",
+        "name": "Norway",
+        "Happiness_score": "7.553999999999999",
+        "Country Code": "NOR",
+        "2017": "4.162000179",
+        "Hours": "34.0"
+    },
+    "512": {
+        "id": "512",
+        "name": "Oman",
+        "Happiness_score": "",
+        "Country Code": "OMN",
+        "2017": "3.137000084",
+        "Hours": ""
+    },
+    "586": {
+        "id": "586",
+        "name": "Pakistan",
+        "Happiness_score": "5.653",
+        "Country Code": "PAK",
+        "2017": "3.1809999939999996",
+        "Hours": ""
+    },
+    "591": {
+        "id": "591",
+        "name": "Panama",
+        "Happiness_score": "6.321000000000001",
+        "Country Code": "PAN",
+        "2017": "3.900000095",
+        "Hours": "38.4"
+    },
+    "600": {
+        "id": "600",
+        "name": "Paraguay",
+        "Happiness_score": "5.742999999999999",
+        "Country Code": "PRY",
+        "2017": "4.614999771",
+        "Hours": "44.1982"
+    },
+    "604": {
+        "id": "604",
+        "name": "Peru",
+        "Happiness_score": "5.697",
+        "Country Code": "PER",
+        "2017": "3.460000038",
+        "Hours": "44.6"
+    },
+    "608": {
+        "id": "608",
+        "name": "Philippines",
+        "Happiness_score": "5.631",
+        "Country Code": "PHL",
+        "2017": "2.552000046",
+        "Hours": ""
+    },
+    "616": {
+        "id": "616",
+        "name": "Poland",
+        "Happiness_score": "6.182",
+        "Country Code": "POL",
+        "2017": "4.887000083999999",
+        "Hours": "38.4"
+    },
+    "620": {
+        "id": "620",
+        "name": "Portugal",
+        "Happiness_score": "5.693",
+        "Country Code": "PRT",
+        "2017": "8.866999626",
+        "Hours": "39.0"
+    },
+    "634": {
+        "id": "634",
+        "name": "Qatar",
+        "Happiness_score": "6.374",
+        "Country Code": "QAT",
+        "2017": "0.14000000099999999",
+        "Hours": "50.0"
+    },
+    "642": {
+        "id": "642",
+        "name": "Romania",
+        "Happiness_score": "6.07",
+        "Country Code": "ROU",
+        "2017": "4.927000046",
+        "Hours": "39.8"
+    },
+    "643": {
+        "id": "643",
+        "name": "Russia",
+        "Happiness_score": "5.648",
+        "Country Code": "",
+        "2017": "",
+        "Hours": ""
+    },
+    "646": {
+        "id": "646",
+        "name": "Rwanda",
+        "Happiness_score": "3.3339999999999996",
+        "Country Code": "RWA",
+        "2017": "0.953999996",
+        "Hours": "38.8966"
+    },
+    "682": {
+        "id": "682",
+        "name": "Saudi Arabia",
+        "Happiness_score": "6.375",
+        "Country Code": "SAU",
+        "2017": "5.889999866",
+        "Hours": "44.1"
+    },
+    "686": {
+        "id": "686",
+        "name": "Senegal",
+        "Happiness_score": "4.681",
+        "Country Code": "SEN",
+        "2017": "6.4369997979999996",
+        "Hours": ""
+    },
+    "688": {
+        "id": "688",
+        "name": "Serbia",
+        "Happiness_score": "5.603",
+        "Country Code": "SRB",
+        "2017": "13.47700024",
+        "Hours": "42.9116"
+    },
+    "694": {
+        "id": "694",
+        "name": "Sierra Leone",
+        "Happiness_score": "4.374",
+        "Country Code": "SLE",
+        "2017": "4.3249998089999995",
+        "Hours": ""
+    },
+    "703": {
+        "id": "703",
+        "name": "Slovakia",
+        "Happiness_score": "6.1979999999999995",
+        "Country Code": "",
+        "2017": "",
+        "Hours": "40.2"
+    },
+    "705": {
+        "id": "705",
+        "name": "Slovenia",
+        "Happiness_score": "6.117999999999999",
+        "Country Code": "SVN",
+        "2017": "6.56400013",
+        "Hours": "39.3"
+    },
+    "706": {
+        "id": "706",
+        "name": "Somalia",
+        "Happiness_score": "4.668",
+        "Country Code": "SOM",
+        "2017": "13.91300011",
+        "Hours": ""
+    },
+    "710": {
+        "id": "710",
+        "name": "South Africa",
+        "Happiness_score": "4.7219999999999995",
+        "Country Code": "ZAF",
+        "2017": "27.32699966",
+        "Hours": "43.4451"
+    },
+    "728": {
+        "id": "728",
+        "name": "South Sudan",
+        "Happiness_score": "2.853",
+        "Country Code": "SSD",
+        "2017": "12.63899994",
+        "Hours": ""
+    },
+    "724": {
+        "id": "724",
+        "name": "Spain",
+        "Happiness_score": "6.354",
+        "Country Code": "ESP",
+        "2017": "17.22400093",
+        "Hours": "37.86"
+    },
+    "144": {
+        "id": "144",
+        "name": "Sri Lanka",
+        "Happiness_score": "4.3660000000000005",
+        "Country Code": "LKA",
+        "2017": "4.179999828",
+        "Hours": "46.8368"
+    },
+    "729": {
+        "id": "729",
+        "name": "Sudan",
+        "Happiness_score": "",
+        "Country Code": "SDN",
+        "2017": "12.77299976",
+        "Hours": ""
+    },
+    "740": {
+        "id": "740",
+        "name": "Suriname",
+        "Happiness_score": "",
+        "Country Code": "SUR",
+        "2017": "7.598999977",
+        "Hours": ""
+    },
+    "748": {
+        "id": "748",
+        "name": "Swaziland",
+        "Happiness_score": "4.212",
+        "Country Code": "",
+        "2017": "",
+        "Hours": ""
+    },
+    "752": {
+        "id": "752",
+        "name": "Sweden",
+        "Happiness_score": "7.343",
+        "Country Code": "SWE",
+        "2017": "6.717999935",
+        "Hours": ""
+    },
+    "756": {
+        "id": "756",
+        "name": "Switzerland",
+        "Happiness_score": "7.48",
+        "Country Code": "CHE",
+        "2017": "4.796999931",
+        "Hours": "34.5"
+    },
+    "158": {
+        "id": "158",
+        "name": "Taiwan",
+        "Happiness_score": "",
+        "Country Code": "",
+        "2017": "",
+        "Hours": ""
+    },
+    "762": {
+        "id": "762",
+        "name": "Tajikistan",
+        "Happiness_score": "5.4670000000000005",
+        "Country Code": "TJK",
+        "2017": "10.73799992",
+        "Hours": ""
+    },
+    "834": {
+        "id": "834",
+        "name": "Tanzania",
+        "Happiness_score": "3.2310000000000003",
+        "Country Code": "TZA",
+        "2017": "1.93900001",
+        "Hours": ""
+    },
+    "764": {
+        "id": "764",
+        "name": "Thailand",
+        "Happiness_score": "6.007999999999999",
+        "Country Code": "THA",
+        "2017": "0.632000029",
+        "Hours": "44.4"
+    },
+    "626": {
+        "id": "626",
+        "name": "Timor-Leste",
+        "Happiness_score": "",
+        "Country Code": "TLS",
+        "2017": "2.9630000589999996",
+        "Hours": "40.8569"
+    },
+    "768": {
+        "id": "768",
+        "name": "Togo",
+        "Happiness_score": "4.085",
+        "Country Code": "TGO",
+        "2017": "1.657999992",
+        "Hours": "43.7007"
+    },
+    "780": {
+        "id": "780",
+        "name": "Trinidad and Tobago",
+        "Happiness_score": "6.192",
+        "Country Code": "TTO",
+        "2017": "2.816999912",
+        "Hours": ""
+    },
+    "788": {
+        "id": "788",
+        "name": "Tunisia",
+        "Happiness_score": "4.461",
+        "Country Code": "TUN",
+        "2017": "15.37899971",
+        "Hours": ""
+    },
+    "792": {
+        "id": "792",
+        "name": "Turkey",
+        "Happiness_score": "5.372999999999999",
+        "Country Code": "TUR",
+        "2017": "10.81900024",
+        "Hours": "46.2"
+    },
+    "795": {
+        "id": "795",
+        "name": "Turkmenistan",
+        "Happiness_score": "5.247000000000001",
+        "Country Code": "TKM",
+        "2017": "3.694999933",
+        "Hours": ""
+    },
+    "800": {
+        "id": "800",
+        "name": "Uganda",
+        "Happiness_score": "4.189",
+        "Country Code": "UGA",
+        "2017": "1.6979999540000001",
+        "Hours": "39.2409"
+    },
+    "804": {
+        "id": "804",
+        "name": "Ukraine",
+        "Happiness_score": "4.332",
+        "Country Code": "UKR",
+        "2017": "9.510000229",
+        "Hours": "39.0"
+    },
+    "784": {
+        "id": "784",
+        "name": "United Arab Emirates",
+        "Happiness_score": "6.825",
+        "Country Code": "ARE",
+        "2017": "2.463000059",
+        "Hours": ""
+    },
+    "826": {
+        "id": "826",
+        "name": "United Kingdom",
+        "Happiness_score": "7.053999999999999",
+        "Country Code": "GBR",
+        "2017": "4.335000038",
+        "Hours": "36.62"
+    },
+    "840": {
+        "id": "840",
+        "name": "United States",
+        "Happiness_score": "6.892",
+        "Country Code": "USA",
+        "2017": "4.355000018999999",
+        "Hours": ""
+    },
+    "858": {
+        "id": "858",
+        "name": "Uruguay",
+        "Happiness_score": "6.292999999999999",
+        "Country Code": "URY",
+        "2017": "7.889999866",
+        "Hours": "37.5964"
+    },
+    "860": {
+        "id": "860",
+        "name": "Uzbekistan",
+        "Happiness_score": "6.1739999999999995",
+        "Country Code": "UZB",
+        "2017": "4.972000122",
+        "Hours": ""
+    },
+    "862": {
+        "id": "862",
+        "name": "Venezuela",
+        "Happiness_score": "4.707",
+        "Country Code": "",
+        "2017": "",
+        "Hours": ""
+    },
+    "704": {
+        "id": "704",
+        "name": "Vietnam",
+        "Happiness_score": "5.175",
+        "Country Code": "VNM",
+        "2017": "1.8860000369999999",
+        "Hours": ""
+    },
+    "887": {
+        "id": "887",
+        "name": "Yemen",
+        "Happiness_score": "3.38",
+        "Country Code": "",
+        "2017": "",
+        "Hours": "43.2501"
+    },
+    "894": {
+        "id": "894",
+        "name": "Zambia",
+        "Happiness_score": "4.107",
+        "Country Code": "ZMB",
+        "2017": "7.2059998510000005",
+        "Hours": "40.7731"
+    },
+    "716": {
+        "id": "716",
+        "name": "Zimbabwe",
+        "Happiness_score": "3.6630000000000003",
+        "Country Code": "ZWE",
+        "2017": "4.94299984",
+        "Hours": "37.8049"
+    }
+}
