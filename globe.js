@@ -33,7 +33,7 @@ var width = 900,
 
   queue()
   .defer(d3.json, "https://raw.githubusercontent.com/EssejTobor/contribute-project3/master/assets/data/world.json")
-  .defer(d3.csv, "https://raw.githubusercontent.com/EssejTobor/contribute-project3/master/assets/data/world-happiness.csv")
+  .defer(d3.csv, "https://raw.githubusercontent.com/EssejTobor/contribute-project3/master/assets/data/world-country-names.csv")
   .await(ready);
 
   //Main function
