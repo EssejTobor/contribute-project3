@@ -1,6 +1,5 @@
-
-  var width = 800,
-  height = 700,
+var width = 900,
+  height = 800,
   sens = 0.25,
   focused;
 
@@ -17,6 +16,7 @@
 
   //SVG container
   var svg = d3.select("body").append("svg")
+  .attr("class", "box")
   .attr("width", width)
   .attr("height", height);
 
@@ -32,8 +32,8 @@
 
 
   queue()
-  .defer(d3.json, "assets/data/world.json")
-  .defer(d3.csv, "assets/data/world-country-names.csv")
+  .defer(d3.json, "https://raw.githubusercontent.com/EssejTobor/contribute-project3/master/assets/data/world.json")
+  .defer(d3.csv, "https://raw.githubusercontent.com/EssejTobor/contribute-project3/master/assets/data/world-happiness.csv")
   .await(ready);
 
   //Main function

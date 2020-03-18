@@ -1,10 +1,15 @@
+/* other water colors  #00248F    #74fbfd */
+ .box {
+  background:rgb(0, 0, 0) 
+
+}  
 
 .water {
     fill: #00248F;
   }
   
   .land {
-    fill: rgb(138, 109, 82);
+    fill: rgb(117, 96, 76);
     stroke: #FFF;
     stroke-width: 0.7px;
   }
@@ -31,11 +36,24 @@
     position: absolute;
     display: none;
     pointer-events: none;
-    background: #fff;
+    background: rgb(255, 170, 170);
     padding: 5px;
     text-align: left;
     border: solid #ccc 1px;
-    color: #666;
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    font-family: sans-serif;
+  }
+
+  .happyTooltip {
+    position: absolute;
+    display: none;
+    pointer-events: fill ;
+    background: rgb(255, 170, 170);
+    padding: 5px;
+    text-align: left;
+    border: solid #ccc 1px;
+    color: rgb(0, 0, 0);
     font-size: 14px;
     font-family: sans-serif;
   }
